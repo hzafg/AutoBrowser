@@ -1,0 +1,3 @@
+www.xuexi.cn/	PageLoaded	C:\Project\AutoStudy\alert.js
+www.xuexi.cn/	TableClosed	C:\Project\AutoStudy\alert.js
+www.xuexi.cn/	UrlChanged	C:\Project\AutoStudy\alert.js
